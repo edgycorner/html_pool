@@ -7,7 +7,7 @@ Go to your ckpool directory and get current directory address via this command
 
 note it down
 
-**Step 2 **
+**Step 2**
 Create a bash script with name j.sh
 
 ``nano j.sh``
@@ -62,7 +62,7 @@ now cd into your webserver directory
 
 ``cd /var/www/html``
 
-and create an index.php ``nano index.php[/code]`` with following lines
+and create an index.php ``nano index.php`` with following lines
 
 
 
